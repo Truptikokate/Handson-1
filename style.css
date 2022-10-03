@@ -1,0 +1,31 @@
+body{
+    color: rgb(138, 6, 8);
+}
+.head{
+    color: paleturquoise;
+}
+.y_bg{
+    background-color: lavender;
+}
+.it{
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+}
+ol li{
+    margin: 1.8rem 0rem;
+}
+.li_space{
+    letter-spacing: 7.2px;
+}
+p{
+    margin: 1.8rem 0rem;
+}
+a{
+    text-decoration: none;
+    color: palevioletred;
+}
+#cross{
+    text-decoration: line-through;
+}
